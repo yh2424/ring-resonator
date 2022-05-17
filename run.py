@@ -1,5 +1,4 @@
 from src import mrr_function as mrr
-from src import input_parameters
 
 gamma = 0.95 # through coefficient
 alpha = 0.978 # loss coefficient(field ratio after one round trip)
