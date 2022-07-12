@@ -3,6 +3,21 @@
 pjt/
 temp/
 
+#
+#result/
+temp/
+*.csv
+*.png
+
+#Pycharm
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
